@@ -17,7 +17,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zdiqOamo1ON_zkTr6twE-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="65" y="120" width="30" height="60" as="geometry" />
+          <mxGeometry x="72.5" y="135" width="15" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zdiqOamo1ON_zkTr6twE-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

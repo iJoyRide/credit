@@ -1,0 +1,12 @@
+[project]
+name = "credit"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.115.6",
+    "pylint>=3.3.2",
+    "python-telegram-bot>=21.9",
+    "uvicorn>=0.32.1",
+]

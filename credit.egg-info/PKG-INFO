@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: credit
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.13
+Description-Content-Type: text/markdown
+Requires-Dist: fastapi>=0.115.6
+Requires-Dist: pylint>=3.3.2
+Requires-Dist: python-telegram-bot>=21.9
+Requires-Dist: uvicorn>=0.32.1
+
+# High Level Diagram
+![image](https://github.com/user-attachments/assets/9c6eb07a-bde5-44bb-804b-be05c384d2c8)
